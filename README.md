@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asemAlthoraya
-- 👀 I’m interested at learning programming languages.
-- 🌱 I’m currently front-end and java
+- 👀 I’m interested at Inspired from #GitHub Community.
+- 🌱 I’m currently front-end and  java
 - 📫 How to reach me this is my email asem012018@gmail.com 
 
 <!---
